@@ -4,7 +4,7 @@ import os
 
 #Func (para limpiar la pantalla)
 def clear():
-  os.system("cmd")
+  os.system("clear")
 #Variable que define si esta juagando
 juego = "si"
 #Define el score del Usuario
